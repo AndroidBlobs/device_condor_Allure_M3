@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device name="Android">
+    <item name="none">0</item>
+    <item name="screen.on">63</item>
+    <item name="screen.full">373</item>
+    <item name="bluetooth.active">140</item>
+    <item name="bluetooth.on">8.9</item>
+    <item name="wifi.on">10.3</item>
+    <item name="wifi.active">185</item>
+    <item name="wifi.scan">68</item>
+    <item name="dsp.audio">100</item>
+    <item name="dsp.video">50</item>
+    <item name="camera.flashlight">0.1</item>
+    <item name="camera.avg">0.1</item>
+    <item name="radio.active">110</item>
+    <item name="radio.scanning">102</item>
+    <item name="gps.on">33</item>
+    <array name="radio.on">
+        <value>8.6</value>
+        <value>7.2</value>
+        <value>7</value>
+        <value>6.8</value>
+        <value>7.5</value>
+    </array>
+    <array name="cpu.speeds">
+        <value>400000</value>
+    </array>
+    <item name="cpu.idle">8</item>
+    <item name="cpu.awake">13</item>
+    <array name="cpu.speeds.cluster">
+        <value>299000</value>
+        <value>338000</value>
+        <value>416000</value>
+        <value>546000</value>
+        <value>624000</value>
+        <value>702000</value>
+        <value>845000</value>
+        <value>910000</value>
+        <value>962000</value>
+        <value>1001000</value>
+        <value>1053000</value>
+        <value>1105000</value>
+        <value>1170000</value>
+        <value>1274000</value>
+        <value>1378000</value>
+        <value>1495000</value>
+    </array>
+    <array name="cpu.active.cluster">
+        <value>70</value>
+        <value>83</value>
+        <value>94</value>
+        <value>118</value>
+        <value>133</value>
+        <value>149</value>
+        <value>181</value>
+        <value>196</value>
+        <value>210</value>
+        <value>217</value>
+        <value>230</value>
+        <value>246</value>
+        <value>267</value>
+        <value>290</value>
+        <value>337</value>
+        <value>372</value>
+    </array>
+    <item name="battery.capacity">3000</item>
+    <array name="wifi.batchedscan">
+        <value>.2</value>
+        <value>2</value>
+        <value>20</value>
+        <value>200</value>
+        <value>500</value>
+    </array>
+</device>
